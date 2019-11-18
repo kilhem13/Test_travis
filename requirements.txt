@@ -1,3 +1,2 @@
- language: python
-  script:
-    - pytest
+pytest==3.4.2
+script: pytest
